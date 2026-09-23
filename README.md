@@ -23,7 +23,6 @@ A beginner-friendly Node.js Express assignment created to understand **updating 
 ├── Screenshots
 │
 ├── server.js
-├── package.json
 └── README.md
 ```
 
